@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1>Image-clacification-for-trafic-signal</h1>
+<h1>Image-classification-for-traffic-signal</h1>
 
 <p>Welcome to the clasification for trafic signal.</p>
 
