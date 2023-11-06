@@ -14,7 +14,13 @@
 <p>Welcome to the clasification for trafic signal.</p>
 
 <h2>Overview</h2>
-<p>You can clarufy your photos in the website!</p>
+<p>This project presents an Image Classification AI capable of recognizing 43 different types of traffic signals. </p>
+<p>The model is built using TensorFlow and leverages the VGG16 model for transfer learning.</p>
+
+<p>Below are some screenshots of the model in action:</p>
+<img alt="Screen Shot 2023-11-06 at 15 19 02" src="https://github.com/Tommy1125/Youtuber-API/assets/103258148/512d49e4-0113-4d93-871c-7c1229987dd4">
+
+<img alt="Screen Shot 2023-11-06 at 15 19 16" src="https://github.com/Tommy1125/Youtuber-API/assets/103258148/138c49b5-f0ba-4920-9251-961ac722330d">
 
 <h2>Experience</h2>
 <p></p>
